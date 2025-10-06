@@ -1,1 +1,1 @@
-# Atividade-extra-Prati
+Rodar npm install .
